@@ -236,3 +236,4 @@ FakesAssemblies/
 
 #environment files
 env
+mynotes/db.sqlite3
