@@ -2,14 +2,14 @@
 
 ## Setup
 
-The first thing to do is to clone the repository:
+Start with cloning the repository:
 
 ```sh
 $ git clone https://github.com/ABinfinity/Django-React-NotesApp.git
 $ cd Django-React-NotesApp
 ```
 
-Create a virtual environment (here env) to install dependencies in and activate it:
+Create a virtual environment (here env) and activate it:
 
 ```sh
 $ virtualenv env
@@ -29,5 +29,5 @@ Once `pip` has finished downloading the dependencies:
 (env)$ cd mynotes
 (env)$ python manage.py runserver
 ```
-And navigate to `http://127.0.0.1:8000/`.
+Then open your browser and go to --> `http://127.0.0.1:8000/`.
 
