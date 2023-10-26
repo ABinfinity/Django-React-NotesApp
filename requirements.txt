@@ -14,7 +14,7 @@ certifi==2020.6.20
 cffi==1.14.0
 chardet==3.0.4
 click==7.1.1
-cryptography==2.9
+cryptography==41.0.5
 cycler==0.10.0
 decorator==4.4.1
 defusedxml==0.6.0
@@ -104,7 +104,7 @@ urllib3==1.25.8
 virtualenv==20.0.7
 wcwidth==0.1.7
 webencodings==0.5.1
-Werkzeug==1.0.0
+Werkzeug==3.0.1
 whitenoise==5.0.1
 widgetsnbextension==3.5.1
 wrapt==1.11.2
