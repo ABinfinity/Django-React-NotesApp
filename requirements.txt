@@ -40,7 +40,7 @@ ipywidgets==7.5.1
 isort==4.3.21
 itsdangerous==1.1.0
 jedi==0.15.1
-Jinja2==2.10.3
+Jinja2==3.1.4
 jsonschema==3.2.0
 jupyter==1.0.0
 jupyter-client==5.3.4
@@ -104,7 +104,7 @@ urllib3==1.25.8
 virtualenv==20.0.7
 wcwidth==0.1.7
 webencodings==0.5.1
-Werkzeug==1.0.0
+Werkzeug==3.0.3
 whitenoise==5.0.1
 widgetsnbextension==3.5.1
 wrapt==1.11.2
