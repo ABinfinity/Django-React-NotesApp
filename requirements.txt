@@ -104,7 +104,7 @@ urllib3==1.25.8
 virtualenv==20.0.7
 wcwidth==0.1.7
 webencodings==0.5.1
-Werkzeug==1.0.0
+Werkzeug==3.0.6
 whitenoise==5.0.1
 widgetsnbextension==3.5.1
 wrapt==1.11.2
