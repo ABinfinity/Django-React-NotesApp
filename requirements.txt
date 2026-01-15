@@ -27,7 +27,7 @@ djangorestframework==3.12.4
 docopt==0.6.2
 entrypoints==0.3
 feedparser==5.2.1
-filelock==3.0.12
+filelock==3.20.3
 Flask==1.1.1
 Flask-RESTful==0.3.8
 ggplot==0.11.5
@@ -100,11 +100,11 @@ terminado==0.8.3
 testpath==0.4.4
 tornado==6.0.3
 traitlets==4.3.3
-urllib3==1.25.8
+urllib3==2.6.3
 virtualenv==20.0.7
 wcwidth==0.1.7
 webencodings==0.5.1
-Werkzeug==1.0.0
+Werkzeug==3.1.5
 whitenoise==5.0.1
 widgetsnbextension==3.5.1
 wrapt==1.11.2
